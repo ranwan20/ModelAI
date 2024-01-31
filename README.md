@@ -1,6 +1,6 @@
 # 多模态情感分析
 ###### 姓名：李欣然 学号:10215501425
-###### github地址：https://github.com/ranwan20/Model-ai（p.s.'bert-base-uncased'文件太大就没有上传到github，邮件压缩包添加了该模型。
+###### github地址：https://github.com/ranwan20/ModelAI（p.s.'bert-base-uncased'文件太大就没有上传到github，邮件压缩包添加了该模型。
 #### 实验要求
 设计一个多模态融合模型。
 自行从训练集中划分验证集，调整超参数。
